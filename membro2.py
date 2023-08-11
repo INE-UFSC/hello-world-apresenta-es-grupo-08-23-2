@@ -1,2 +1,2 @@
 def hello():
-	return "Olá, eu sou a Emanuelle e tenho 19 anos. Frequentemente estou fazendo alguma aula de dança ou buscando aprender algo novo. Comecei a programar no início desse ano com a disciplina de POO1 e espero conseguir aprimorar os meus conhecimentos nessa novo matéria."
+	return "Olá, eu sou a Emanuelle e tenho 19 anos. Frequentemente estou fazendo alguma aula de dança ou buscando aprender algo novo. Comecei a programar no início desse ano com a disciplina de POO1 e espero conseguir aprimorar os meus conhecimentos nessa novo matéria!!"
